@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = ../overank-api.git
+[submodule "web"]
+	path = web
+	url = ../overank-web.git
