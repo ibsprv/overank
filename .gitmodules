@@ -4,3 +4,6 @@
 [submodule "web"]
 	path = web
 	url = ../overank-web.git
+[submodule "deploy"]
+	path = deploy
+	url = ../overank-deploy.git
